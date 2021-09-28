@@ -1,14 +1,15 @@
 Lobe to MicroBit
 ================
 
-Dead simple example of integration between the image recongition sowtware [Lobe](https://www.lobe.ai/) and [Microbit](https://microbit.org/).
-It's a webpage that loads a model produced by Lobe and sends recognised labels to a serial interface, which can be plugged to a Microbit, but also any other device really.
+Dead simple example of integration between the image recongition software [Lobe](https://www.lobe.ai/) and [Microbit](https://microbit.org/).
+
+It's a webpage that loads a model produced by Lobe and sends recognised labels to a serial interface, which can be plugged to a Microbit or any other device (even an Arduino).
 
 ## Why?
 
 Why not?
 
-The idea is to test possible integrations of Machine Learning with embedded devices, such as Arduino and Microbit.
+The idea is to test possible applications of Machine Learning with embedded devices, such as Microbit and Arduino.
 
 ## How?
 
@@ -23,6 +24,3 @@ The idea is to test possible integrations of Machine Learning with embedded devi
 ## Who?
 
 Developed by Dario Salvi, with the help of [Jens Pedersen](https://github.com/ixd-teaching/), for the [Master in Interaction Design of Malmo University](https://mau.se/en/study-education/programme/taind/).
-
-Use this as a starter project:
-
