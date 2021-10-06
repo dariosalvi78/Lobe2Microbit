@@ -24,5 +24,3 @@ The idea is to test possible integrations of Machine Learning with embedded devi
 
 Developed by Dario Salvi, with the help of [Jens Pedersen](https://github.com/ixd-teaching/), for the [Master in Interaction Design of Malmo University](https://mau.se/en/study-education/programme/taind/).
 
-Use this as a starter project:
-
